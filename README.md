@@ -1,15 +1,23 @@
-From Italy to Osaka   10-Year Journey
+From Italy to Japan  Long-Term Journey
 
-My name is Leonardo. I’m a teen, and on April 24, 2026, I opened this GitHub to document a long journey.
+My name is Leonardo. On April 24, 2026, I created this GitHub profile to document a long-term journey.
 
-My goal:  
-Become a software engineer and live in Osaka by age 23–24.
+My goal:
+Become a software engineer, build real-world skills, and pursue opportunities to study and work in Japan.
 
-I’m starting almost from zero, a bit of hiragana, my first lines of Python but I’m dedicated to improving every single day.
+I’m starting from the basics: early Japanese study, foundational programming and I’m committed to improving consistently over time.
 
-This profile will be the proof of my progress:  
-small steps, real skills, real projects , Japan.
+This profile is my proof of progress:
+small steps, real skills, real projects.
 
-Started: April 24, 2026  
-Goal: Osaka  
-Deadline: 10-15 years
+Focus areas:
+
+* Software development (Python, JavaScript, and beyond)
+* Building practical projects
+* Continuous improvement in English and Japanese
+* Preparing for university and international opportunities
+
+Started: April 24, 2026
+Goal: Japan (study and work)
+Timeline: Long-term (10+ years)
+
