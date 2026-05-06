@@ -1,23 +1,26 @@
-From Italy to Japan  Long-Term Journey
+From Italy to Japan Building Skills
 
-My name is Leonardo. On April 24, 2026, I created this GitHub profile to document a long-term journey.
+I started this GitHub on April 24, 2026 to document a long-term journey.
 
-My goal:
-Become a software engineer, build real-world skills, and pursue opportunities to study and work in Japan.
+Goal:
+Become a software engineer and build the skills required to study and work internationally, with a focus on Japan.
 
-I’m starting from the basics: early Japanese study, foundational programming and I’m committed to improving consistently over time.
+What I’m doing:
 
-This profile is my proof of progress:
-small steps, real skills, real projects.
+ Learning programming fundamentals (Python, JavaScript)
+ Building small but real projects
+ Studying English and Japanese consistently
+ Improving problem solving and software thinking
 
-Focus areas:
+This profile is not a portfolio of perfect projects, but a record of progress:
+from basics → to real-world applications.
 
-* Software development (Python, JavaScript, and beyond)
-* Building practical projects
-* Continuous improvement in English and Japanese
-* Preparing for university and international opportunities
+Focus:
+
+ Software development
+ Practical projects
+ Continuous learning
 
 Started: April 24, 2026
-Goal: Japan (study and work)
+Direction: International career (Japan)
 Timeline: Long-term (10+ years)
-
