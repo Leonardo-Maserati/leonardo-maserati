@@ -1,6 +1,6 @@
 From Italy to Osaka   10-Year Journey
 
-My name is Leonardo. I’m 13 years old, and on April 24, 2026, I opened this GitHub to document a long journey.
+My name is Leonardo. I’m a teen, and on April 24, 2026, I opened this GitHub to document a long journey.
 
 My goal:  
 Become a software engineer and live in Osaka by age 23–24.
@@ -12,4 +12,4 @@ small steps, real skills, real projects , Japan.
 
 Started: April 24, 2026  
 Goal: Osaka  
-Deadline: 10 years
+Deadline: 10-15 years
